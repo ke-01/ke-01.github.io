@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kepu Zhang"
   avatar           : "profile.png"
-  bio              : "Master's Student At Renmin University of China"
+  bio              : "M.S. Student At RUC"
   location         : "Beijing China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=7s1HXdcAAAAJ"
   email            : "kepuzhang@ruc.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6109-4704"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
