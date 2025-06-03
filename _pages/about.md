@@ -24,8 +24,8 @@ Publications
 * (**COLING 2024, Second author**) Logic Rules as Explanations for Legal Case Retrieval.   
 
 ### LLM Reasoning and Application
+* (**ACL 2025, First author**) CitaLaw: Enhancing LLM with Citations in Legal Domain.
 * (**First author**) SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models.
-* (**First author**) CitaLaw: Enhancing LLM with Citations in Legal Domain.
 * (**First author**) Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning. 
 * (**ACL 2024 short finding, Co-first author**) Effective In-Context Example Selection through Data Compression. 
 * (**TMM 2023, Stu-first author**) Does thermal really always matter for RGB-T salient object detection? 
