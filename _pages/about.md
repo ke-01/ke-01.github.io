@@ -46,11 +46,11 @@ Publications
 
 * Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning.
 
-  (**First author** \| LLM RAG Reasoning)
+  (**First author**, Under Review \| LLM RAG Reasoning)
 
 * QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors. 
 
-  (**First author** \| LLM RAG)
+  (**First author**, Under Review \| LLM RAG)
 
 * Logic Rules as Explanations for Legal Case Retrieval.
 
@@ -63,11 +63,11 @@ Publications
 
 * Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning. 
 
-  (**First author** \| LLM Reasoning) 
+  (**First author**, Under Review \| LLM Reasoning) 
 
 * An Explicit Syllogistic Legal Reasoning Framework for Large Language Models.
 
-  (**First author** \| LLM RAG Reasoning) 
+  (**First author**, Under Review \| LLM RAG Reasoning) 
 
 * Effective In-Context Example Selection through Data Compression. 
 
