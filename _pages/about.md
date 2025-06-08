@@ -29,25 +29,53 @@ Skills
 ======
 Possess experience in large-scale data processing and large-scale LLM training.
 
-1. Programming Language: C, C++, Python
-2. Data Processing: Spark, MapReduce, Hadoop
-3. Model Training: Megatron, DeepSpeed, Ray, Pytorch, VeRL, TRL, vLLM
+- **Programming Language**: C, C++, Python
+- **Data Processing**: Spark, MapReduce, Hadoop
+- **Model Training**: Megatron, DeepSpeed, Ray, Pytorch, VeRL, TRL, vLLM
 
 Publications
 ============
 ### Search and Recommendation
-* (**First author**) Trigger<sup>3</sup>: Refining Query Correction via Adaptive Model Selector. **(AAAI 2025, CCF A)**
-* (**First author**) SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback. **(CIKM 2024, CCF B)**
-* (**First author**) Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning.
-* (**First author**) QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors. 
-* (**Second author**) Logic Rules as Explanations for Legal Case Retrieval. **(COLING 2024, CCF B)**
+* Trigger<sup>3</sup>: Refining Query Correction via Adaptive Model Selector. 
+
+  (**First author, AAAI 2025, CCF A** \| LLM for Search) 
+
+* SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback. 
+
+  (**First author, CIKM 2024, CCF B** \| Recommendation)
+
+* Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning.
+
+  (**First author** \| LLM RAG Reasoning)
+
+* QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors. 
+
+  (**First author** \| LLM RAG)
+
+* Logic Rules as Explanations for Legal Case Retrieval.
+
+  (**Second author, COLING 2024, CCF B** \| Retrieval)
 
 ### LLM Reasoning and Application
-* (**First author**) CitaLaw: Enhancing LLM with Citations in Legal Domain. **(ACL 2025, CCF A)**
-* (**First author**) Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning. 
-* (**First author**) SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models.
-* (**Co-first author**) Effective In-Context Example Selection through Data Compression. **(ACL 2024 short findings, CCF A)**
-* (**Stu-first author**) Does thermal really always matter for RGB-T salient object detection? **(TMM 2023, CCF B)**
+* CitaLaw: Enhancing LLM with Citations in Legal Domain. 
+  
+  (**First author, ACL 2025, CCF A** \| LLM Citation, RAG)
+
+* Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning. 
+
+  (**First author** \| LLM Reasoning) 
+
+* SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models.
+
+  (**First author** \| LLM RAG Reasoning) 
+
+* Effective In-Context Example Selection through Data Compression. 
+
+  (**Co-first author, ACL 2024 short findings, CCF A** \| LLM ICL)
+
+* Does thermal really always matter for RGB-T salient object detection? 
+
+  (**Stu-first author, TMM 2023, CCF B** \| object detection)
 
 Teaching
 ======
