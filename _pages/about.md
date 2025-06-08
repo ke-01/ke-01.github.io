@@ -65,7 +65,7 @@ Publications
 
   (**First author** \| LLM Reasoning) 
 
-* SyLeR: A Framework for Explicit Syllogistic Legal Reasoning in Large Language Models.
+* An Explicit Syllogistic Legal Reasoning Framework for Large Language Models.
 
   (**First author** \| LLM RAG Reasoning) 
 
