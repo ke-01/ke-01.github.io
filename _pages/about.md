@@ -30,15 +30,15 @@ Skills
 Possess experience in large-scale data processing and large-scale LLM training.
 
 1. Programming Language: C, C++, Python
-2. Data Processing: Spark、MapReduce、Hadoop
-3. Model Training: Megatron、DeepSpeed, Ray, Pytorch
+2. Data Processing: Spark, MapReduce, Hadoop
+3. Model Training: Megatron, DeepSpeed, Ray, Pytorch, VeRL, TRL, vLLM
 
 Publications
 ============
 ### Search and Recommendation
 * (**First author**) Trigger<sup>3</sup>: Refining Query Correction via Adaptive Model Selector. **(AAAI 2025, CCF A)**
 * (**First author**) SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback. **(CIKM 2024, CCF B)**
-* (**First author**) Enhancing Explicit Reasoning through Contrastive Reward Learning for Personalized RAG.
+* (**First author**) Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning.
 * (**First author**) QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors. 
 * (**Second author**) Logic Rules as Explanations for Legal Case Retrieval. **(COLING 2024, CCF B)**
 
