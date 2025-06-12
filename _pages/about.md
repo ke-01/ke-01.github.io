@@ -22,8 +22,8 @@ Work Experience
   - Research Directions: Search and Recommendation
 
 - **Tencent WeChat**: Intern
-  - 2025 ~ Now
-  - Directions: LLM for Search 
+  - March 2025 ~ Now
+  - Directions: LLM for Search, AI Search
 
 Skills
 ======
