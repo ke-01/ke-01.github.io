@@ -36,8 +36,8 @@ Publications
 * **[LLM for Search]** "Trigger<sup>3</sup>: Refining Query Correction via Adaptive Model Selector." **First author, AAAI'25, CCF A**
 * **[LLM Citation, RAG Credibility]** "CitaLaw: Enhancing LLM with Citations in Legal Domain." **First author, ACL'25, CCF A** 
 * **[Personalized Alignment]** "SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback." **First author, CIKM'24, CCF B**
-* **[Personalized Alignment]** "Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning." **First author, CIKM'25**, Under Review
-* **[LLM RAG Reasoning]** "An Explicit Syllogistic Legal Reasoning Framework for Large Language Models." **First author, CIKM'25**, Under Review
+* **[Personalized Alignment]** "Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning." **First author, CIKM'25, CCF B**
+* **[LLM RAG Reasoning]** "An Explicit Syllogistic Legal Reasoning Framework for Large Language Models." **First author, CIKM'25, CCF B**
 * **[LLM Reasoning]** "Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning." **First author, EMNLP'25**, Under Review
 * **[LLM Reasoning]** "Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning." **First author, EMNLP'25**, Under Review
 * **[RAG robustness]** "QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors." **First author, EMNLP'25**, Under Review
