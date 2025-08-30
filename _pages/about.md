@@ -38,9 +38,9 @@ Publications
 * **[Personalized Alignment]** "SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire Feedback." **First author, CIKM'24, CCF B**
 * **[Personalized Alignment]** "Enhancing Explicit Reasoning for Personalized RAG through Contrastive Reward Learning." **First author, CIKM'25, CCF B**
 * **[LLM RAG Reasoning]** "An Explicit Syllogistic Legal Reasoning Framework for Large Language Models." **First author, CIKM'25, CCF B**
-* **[LLM Reasoning]** "Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning." **First author, EMNLP'25**, Under Review
-* **[LLM Reasoning]** "Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning." **First author, EMNLP'25**, Under Review
-* **[RAG robustness]** "QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors." **First author, EMNLP'25**, Under Review
+* **[LLM Reasoning]** "Legal Mathematical Reasoning with LLMs: Procedural Alignment through Two-Stage Reinforcement Learning." **First author, EMNLP'25, CCF B**
+* **[LLM Reasoning]** "Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning." **First author, EMNLP'25, CCF B**
+* **[RAG robustness]** "QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors." **First author, AAAI'26**, Under Review
 * **[LLM ICL]** "Effective In-Context Example Selection through Data Compression." **Co-first author, ACL 2024 short findings, CCF A**
 * **[Retrieval]** "Logic Rules as Explanations for Legal Case Retrieval." **Second author, COLING 2024, CCF B**
 * **[Object Detection]** "Does thermal really always matter for RGB-T salient object detection?" **Stu-first author, TMM 2023, CCF B, When I was an undergrad.**
